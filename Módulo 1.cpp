@@ -18,3 +18,4 @@ int main()
     
     cout << "Introduce el segundo numero: ";
     cin >> n2;
+
